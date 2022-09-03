@@ -15,10 +15,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/haidy-yasser-09ba01189" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="haidy-yasser-09ba01189" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/haidyasser3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="haidyasser3" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/haidy_yasser" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="haidy_yasser" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/haidyasser3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="haidyasser3" height="30" width="40" /></a>
+<a href="https://https://www.linkedin.com/in/esraa-syam-232a8b240/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/esraa-syam-232a8b240/" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/UGS_141198" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="Esraa syam" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/esraa_syam15" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="esraa_syam15" height="30" width="40" /></a>
+<a href="https://leetcode.com/Esraa_Syam15/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Esraa_Syam15" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
