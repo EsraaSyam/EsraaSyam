@@ -27,3 +27,10 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=EsraaSyam&show_icons=true&locale=en&layout=compact" alt="haidyasser" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=EsraaSyam&" alt="haidyasser" /></p>
+
+
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=EsraaSyam&show_icons=true&locale=en" alt="EsraaSyam" /></p>
+
+
+
