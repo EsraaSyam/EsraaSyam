@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **e294014@gmail.com**
 
-- ⚡ Fun fact **t’s all 0’s and 1’s**
+- ⚡ Fun fact **it’s all 0’s and 1’s**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
