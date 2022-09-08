@@ -13,6 +13,8 @@
 
 - ⚡ Fun fact **it’s all 0’s and 1’s**
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=EsraaSyam&label=Profile%20views&color=0e75b6&style=flat" alt="EsraaSyam" /> </p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/esraa-syam-232a8b240/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/esraa-syam-232a8b240/" height="30" width="40" /></a>
