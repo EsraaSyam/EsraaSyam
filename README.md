@@ -9,7 +9,7 @@
 
 - 👨‍💻 I am a competitive programmer at **Codeforces, Atcoder, Leetcode, Codechef.**
 
-- 📫 How to reach me **e294014@gmail.com**
+- 📫 How to reach me **esraasyam15@gmail.com**
 
 - ⚡ Fun fact **it’s all 0’s and 1’s**
 - 🔭 You can look at my [Resume](https://drive.google.com/file/d/1VH_wtAqZJJDZFpPlWr99EmP1F1sgezPK/view?usp=sharing) for more Details about me 
