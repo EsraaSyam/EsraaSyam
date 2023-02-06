@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **esraasyam15@gmail.com**
 
-- ⚡ Fun fact **it’s all 0’s and 1’s **
+- ⚡ Fun fact **it’s all 0’s and 1’s**
 - 🔭 You can look at my [Resume](https://drive.google.com/file/d/1dHrq6pBSLKdLjIUglziZsJJGCzf8VdB6/view?usp=sharing) for more Details about me 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=EsraaSyam&label=Profile%20views&color=0e75b6&style=flat" alt="EsraaSyam" /> </p>
