@@ -1,5 +1,5 @@
 <h1 align="center">Hi , I'm Esraa Syam💜
-</br> </br> <img src="https://tenor.com/view/dance-dancing-duck-duck-shuba-duck-hey-ya-gif-22806014.gif" width="80"></h1>
+</br> </br> <img src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif" width="80"></h1>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Computer+Science+Student;Competitive+Programmer;"></a>
