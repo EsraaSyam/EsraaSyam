@@ -1,5 +1,5 @@
 <h1 align="center">Hi , I'm Esraa Syam💜
-</br> </br> <img src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif" width="80"></h1>
+</br> </br> <img align = "center" src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif" width="160"></h1>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Computer+Science+Student;Competitive+Programmer;"></a>
@@ -31,6 +31,7 @@
 <a href="https://codeforces.com/profile/esraa_syam15" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="esraa_syam15" height="30" width="40" /></a>
 <a href="https://leetcode.com/Esraa_Syam15/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Esraa_Syam15" height="30" width="40" /></a>
 </p>
+<img align="right" src="https://tenor.com/view/duck-bwong-gif-23555224.gif" width = "180"/> 
 
 ---
   ## 🏆 GitHub Trophies
@@ -105,3 +106,8 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
+<h2> Thank you for your attention 🙏🏻 </br> </br>  <img align="center" src="https://tenor.com/view/wave-bye-goodbye-farewell-waving-gif-15994137.gif" width = "200"/> </h2>
+
+
+													     
+													     
