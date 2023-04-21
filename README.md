@@ -106,7 +106,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-<h2> Thank you for your attention 🙏🏻 </br> </br>  <img align="center" src="https://tenor.com/view/wave-bye-goodbye-farewell-waving-gif-15994137.gif" width = "200"/> </h2>
+<h2> Thank you for your attention 🙏🏻 </br> </br>  <img align="center" src="https://github.com/EsraaSyam/EsraaSyam/blob/main/wave-bye.gif" width = "200"/> </h2>
 
 
 													     
