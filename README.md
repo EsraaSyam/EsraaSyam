@@ -1,9 +1,9 @@
-<h1 align="center">Hi , I'm Esraa Syam💜
-</br> </br><img align = "center" src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif" width="160"> </h1>
+<h1 align="center">Hi , I'm Esraa Syam 🖤
+</br> </br><img align = "center" src="./stickers/yes.gif" width="160"> </h1>
 
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Computer+Science+Student;Competitive+Programmer;"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFBBD3&background=86FFB400&random=false&width=435&center=true&lines=Computer+Science+Student;Competitive+Programmer;Software+Engineer;Backend+Developer"></a>
 </p>
 
 - 🔭 I am a Junior at [Faculty of Computers & Informatics at Suez Canal University.](http://suez.edu.eg/ar/?page_id=7325&lang=en)
