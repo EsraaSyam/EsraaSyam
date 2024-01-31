@@ -16,7 +16,7 @@
 
 - ⚡ Fun fact **it’s all 0’s and 1’s**
 
-- 🔭 You can look at my [Resume](https://drive.google.com/file/d/1Vtf_H5JT5IZ9xxciVuDm37dgt_WWkZDQ/view?usp=sharing) for more details about me 
+- 🔭 You can look at my [Resume](https://drive.google.com/file/d/1sOIU7aq4by0LnyzxJMfFCFb6VbJqhb9u/view?usp=sharing) for more details about me 
 
 ---
 
