@@ -6,7 +6,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&pause=1000&color=FFBBD3&background=86FFB400&center=true&vCenter=true&random=false&width=435&lines=Computer+Science+Student;Competitive+Programmer;Software+Engineer;Backend+Developer"></a>
 </p>
 
-- 🔭 I am a Junior at [Faculty of Computers & Informatics at Suez Canal University.](http://suez.edu.eg/ar/?page_id=7325&lang=en)
+- 🔭 I am a senior at [Faculty of Computers & Informatics at Suez Canal University.](http://suez.edu.eg/ar/?page_id=7325&lang=en)
 
 - 🌱 I’m currently learning **Computer Science**
 
