@@ -32,7 +32,7 @@
 <a href="https://codeforces.com/profile/esraa_syam15" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="esraa_syam15" height="30" width="30" /></a>
 <a href="https://leetcode.com/Esraa_Syam15/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Esraa_Syam15" height="30" width="80" /></a>
 </p>
-<img align="right" src="https://github.com/EsraaSyam/EsraaSyam/blob/main/quack-quack-dance.gif" width = "180"/> 
+<!-- <img align="right" src="https://github.com/EsraaSyam/EsraaSyam/blob/main/quack-quack-dance.gif" width = "180"/>  -->
 
 ---
   ## 🏆 GitHub Trophies
