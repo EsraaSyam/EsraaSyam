@@ -1,7 +1,7 @@
 <h1 align="center">Hi , I'm Esraa Syam 🖤
 </br> </br><img align = "center" src="https://github.com/EsraaSyam/EsraaSyam/blob/main/stickers/hi-hi-there.gif" width="160"> </h1>
 
-<img align = "left" src="https://github.com/EsraaSyam/EsraaSyam/blob/main/stickers/ai-bot.gif" width="30"> 
+<img align = "left" src="https://github.com/EsraaSyam/EsraaSyam/blob/main/stickers/ai-bot.gif" width="50"> 
 
 <h4> About me</hs>
 
