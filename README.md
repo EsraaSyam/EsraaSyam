@@ -8,15 +8,13 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&pause=1000&color=FFBBD3&background=86FFB400&center=true&vCenter=true&random=false&width=435&lines=Computer+Science+Student;Competitive+Programmer;Software+Engineer;Backend+Developer"></a>
 </p> -->
 
-- 🔭 I am a senior at [Faculty of Computers & Informatics at Suez Canal University.](http://suez.edu.eg/ar/?page_id=7325&lang=en)
+-  🎓 I am a recent graduate from the Faculty of [Computers & Informatics at Suez Canal University](http://suez.edu.eg/ar/?page_id=7325&lang=en)
 
-- 🌱 I’m currently learning **Computer Science**
+- 💻 I specialize in backend development using **Node.js** and database management with **Mongoose**. I love creating efficient, scalable, and maintainable backend systems.
 
-- 👨‍💻 I am a competitive programmer at **Codeforces, Atcoder, Leetcode, Codechef.**
+- 🏆 In addition to my backend development skills, I'm also a competitive programmer and enjoy solving challenging problems. You can check out some of my solutions and coding challenges on my **[codeforces profile](https://codeforces.com/profile/Sira)**
 
 - 📫 How to reach me **esraasyam15@gmail.com**
-
-- ⚡ Fun fact **it’s all 0’s and 1’s**
 
 - 🔭 You can look at my [Resume](https://drive.google.com/file/d/1sOIU7aq4by0LnyzxJMfFCFb6VbJqhb9u/view?usp=sharing) for more details about me 
 
