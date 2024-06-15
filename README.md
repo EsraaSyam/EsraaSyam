@@ -1,13 +1,8 @@
 <h1 align="center">Hi , I'm Esraa Syam 🖤
 </br> </br><img align = "center" src="https://github.com/EsraaSyam/EsraaSyam/blob/main/stickers/hi-hi-there.gif" width="160"> </h1>
 
-<img align = "left" src="https://github.com/EsraaSyam/EsraaSyam/blob/main/stickers/ai-bot.gif" width="50"> 
-
-<h4> About me</hs>
-
-</br>
-
-***
+ <img  src="https://github.com/EsraaSyam/EsraaSyam/blob/main/stickers/monitors-typing.gif" width="6.5%">  About me
+---
 
 <!-- <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&pause=1000&color=FFBBD3&background=86FFB400&center=true&vCenter=true&random=false&width=435&lines=Computer+Science+Student;Competitive+Programmer;Software+Engineer;Backend+Developer"></a>
