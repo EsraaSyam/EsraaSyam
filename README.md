@@ -72,13 +72,6 @@
 <!--- GitHub Stats --->
 <h4 align="left">📈 My GitHub Stats</42></p>
   <br/>
-  <!-- <img align="center" src="https://github-readme-stats.vercel.app/api?username=EsraaSyam&theme=chartreuse-dark&show_icons=true&hide_border=true&count_private=true" alt="EsraaSyam's GitHub Stats" />
-
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=EsraaSyam&theme=chartreuse-dark&show_icons=true&hide_border=true&layout=compact" alt="EsraaSyam's GitHub Stats" align="center" />
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EsraaSyam&theme=chartreuse-dark&hide_border=true" alt="EsraaSyam's GitHub Stats"  />
-   -->
-
   <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="EsraaSyam's Github Stats" src="https://github-readme-stats.vercel.app/api?username=EsraaSyam&theme=chartreuse-dark&show_icons=true&hide_border=true&count_private=true" height="192px"/></a>
 <br/>
@@ -90,7 +83,8 @@
 
 ---
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=chartreuse-dark&show_icons=true&hide_border=true&layout=compact)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=chartreuse-dark&show_icons=true&hide_border=true&layout=compact&animation=default&align=center)
+
 
 ---
 
