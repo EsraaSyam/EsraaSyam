@@ -1,7 +1,11 @@
 <h1 align="center">Hi , I'm Esraa Syam 🖤
 </br> </br><img align = "center" src="https://github.com/EsraaSyam/EsraaSyam/blob/main/stickers/hi-hello.gif" width="160"> </h1>
 
- <img  src="https://github.com/EsraaSyam/EsraaSyam/blob/main/stickers/monitors-typing.gif" width="9.5%">  About me
+ <p>
+  <img src="https://github.com/EsraaSyam/EsraaSyam/blob/main/stickers/monitors-typing.gif" width="9.5%">
+  <small>About me</small>
+</p>
+
 ---
 
 <!-- <p align="center">
