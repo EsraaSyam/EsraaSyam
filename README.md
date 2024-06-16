@@ -3,7 +3,7 @@
 
  <p>
   <img src="https://github.com/EsraaSyam/EsraaSyam/blob/main/stickers/monitors-typing.gif" width="9.5%">
-  <small>About me</small>
+  About Me
 </p>
 
 ---
