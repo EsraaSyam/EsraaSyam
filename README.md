@@ -43,39 +43,23 @@
 <!---languages & Tools text --->
 
 <div>&nbsp;</div>
-<h2 align="left">Languages & Tools🫡</h2></p>
+<h2 align="left">🛠️ Languages & Tools</h2></p>
 <div align="center">
 
 <!--- language icons --->
 
-<img height="100" src="https://github.com/Haidyasser/Haidyasser/blob/main/Assets/Icons/C.png" />
-<img height="100" src="https://github.com/Haidyasser/Haidyasser/blob/main/Assets/Icons/CPP.png" />
-<img height="100" src="https://github.com/DataOpsEnthusiast/DataOpsEnthusiast/blob/main/Assets/Icons/JAVA.png" />
-<!--img height="100" src="https://github.com/Haidyasser/Haidyasser/blob/main/Assets/Icons/HTML.png" />
-<img height="100" src="https://github.com/Haidyasser/Haidyasser/blob/main/Assets/Icons/CSS.png" /-->
-<!-- img height="100" src="https://github.com/Haidyasser/Haidyasser/blob/main/Assets/Icons/JS.png" /-->
-	
-<img height="100" src="https://github.com/Haidyasser/Haidyasser/blob/main/Assets/Icons/PYTHON.png" />
-<img height="100" src="https://github.com/Haidyasser/Haidyasser/blob/main/Assets/Icons/git.png" />
-<img height="100" src="https://github.com/Haidyasser/Haidyasser/blob/main/Assets/Icons/vscode.png" />
-<!-- img height="100" src="https://github.com/Haidyasser/Haidyasser/blob/main/Assets/Icons/vstudio.png" /-->
-<!--img height="100" src="https://github.com/Haidyasser/Haidyasser/blob/main/Assets/Icons/intellij.png" /-->
-<img height="100" src="https://github.com/Haidyasser/Haidyasser/blob/main/Assets/Icons/clion.png" />
-<img height="100" src="https://github.com/Haidyasser/Haidyasser/blob/main/Assets/Icons/pycharm.png" />
-<!--img height="100" src="https://github.com/Haidyasser/Haidyasser/blob/main/Assets/Icons/anaconda.png" />
-<!--img height="100" src="https://github.com/Haidyasser/Haidyasser/blob/main/Assets/Icons/JUPYTER.png" />
-<!-- img height="100" src="https://github.com/Haidyasser/Haidyasser/blob/main/Assets/Icons/SPYDER.png" /-->
-<!-- img height="100" src="https://github.com/Haidyasser/Haidyasser/blob/main/Assets/Icons/TABLEAU.png" /-->
-<!-- img height="100" src="https://github.com/Haidyasser/Haidyasser/blob/main/Assets/Icons/STATS.png" />
-<img height="100" src="https://github.com/Haidyasser/Haidyasser/blob/main/Assets/Icons/EXCEL.png" />
-<img height="100" src="https://github.com/Haidyasser/Haidyasser/blob/main/Assets/Icons/visio.png" />
-<img height="100" src="https://github.com/Haidyasser/Haidyasser/blob/main/Assets/Icons/SQL.png" />
-<img height="100" src="https://github.com/DHaidyasser/Haidyasser/blob/main/Assets/Icons/AZURE.png" /-->
-<img height="100" src="https://github.com/Haidyasser/Haidyasser/blob/main/Assets/Icons/ps.png" />
-<!-- img height="100" src="https://github.com/Haidyasser/Haidyasser/blob/main/Assets/Icons/id.png" />
-<img height="100" src="https://github.com/Haidyasser/Haidyasser/blob/main/Assets/Icons/ai.png" />
-<img height="100" src="https://github.com/Haidyasser/Haidyasser/blob/main/Assets/Icons/xd.png" />
-<img height="100" src="https://github.com/Haidyasser/Haidyasser/blob/main/Assets/Icons/fg.png" /-->
+<img height="60" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" />
+<img height="60" src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" />
+<img height="60" src="https://user-images.githubusercontent.com/25181517/192108889-232b3431-a585-4b36-a62d-9078bd3641d9.png" />
+<img height="60" src="https://user-images.githubusercontent.com/25181517/192108890-200809d1-439c-4e23-90d3-b090cf9a4eea.png" />
+<img height="60" src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" />
+
+<img height="60" src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" />
+<img height="60" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" />
+
+<img height="60" src="https://user-images.githubusercontent.com/25181517/121401671-49102800-c959-11eb-9f6f-74d49a5e1774.png" />
+<img height="60" src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png" />
+<img height="60" src="https://user-images.githubusercontent.com/25181517/192106073-90fffafe-3562-4ff9-a37e-c77a2da0ff58.png" />
 
   
 &nbsp;
@@ -105,6 +89,8 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
+
+
 <h2> Thank you for your attention 🙏🏻 </br> </br>  <img align="center" src="https://github.com/EsraaSyam/EsraaSyam/blob/main/wave-bye.gif" width = "200"/> </h2>
 
 
