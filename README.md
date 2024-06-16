@@ -75,20 +75,25 @@
 
   <summary><b>💻 GitHub Profile Stats</b></summary>
   <br/>
-  <p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=EsraaSyam&theme=chartreuse-dark&show_icons=true&hide_border=true&count_private=true" alt="EsraaSyam's GitHub Stats" />
+
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=EsraaSyam&theme=chartreuse-dark&show_icons=true&hide_border=true&layout=compact" alt="EsraaSyam's GitHub Stats" align="center" />
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EsraaSyam&theme=chartreuse-dark&hide_border=true" alt="EsraaSyam's GitHub Stats"  />
+  <!-- <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="EsraaSyam's Github Stats" src="https://github-readme-stats.vercel.app/api?username=EsraaSyam&theme=radical&hide_border=false&include_all_commits=false&count_private=false" height="192px"/></a>
 <br/>
   &nbsp;
 	  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EsraaSyam&theme=radical&hide_border=false" alt="EsraaSyam" height="192px"/>
 	  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EsraaSyam&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="EsraaSyam" height="192px"/>
-  <br/>
+  <br/> -->
 
 
----
+<!-- ---
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----
+--- -->
 
 
 <h2> Thank you for your attention 🙏🏻 </br> </br>  <img align="center" src="https://github.com/EsraaSyam/EsraaSyam/blob/main/wave-bye.gif" width = "200"/> </h2>
