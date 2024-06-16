@@ -69,9 +69,8 @@
 
 ---
 
-
-
-  <summary><b> My GitHub Stats </b></summary>
+<!--- GitHub Stats --->
+<h4 align="left">📈 My GitHub Stats</42></p>
   <br/>
   <!-- <img align="center" src="https://github-readme-stats.vercel.app/api?username=EsraaSyam&theme=chartreuse-dark&show_icons=true&hide_border=true&count_private=true" alt="EsraaSyam's GitHub Stats" />
 
