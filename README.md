@@ -94,7 +94,7 @@
 ---
 
 
-<h2> Thank you for your attention 🙏🏻 </br> </br>  <img align="center" src="https://github.com/EsraaSyam/EsraaSyam/blob/main/wave-bye.gif" width = "200"/> </h2>
+<h2> Thank you for your attention 🙏🏻 </br> </br>  <img align="center" src="https://github.com/EsraaSyam/EsraaSyam/blob/main/stickers/Bye.gif" width = "200"/> </h2>
 
 
 													     
