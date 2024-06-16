@@ -88,11 +88,11 @@
   <br/>
 
 
-<!-- ---
+---
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=chartreuse-dark&show_icons=true&hide_border=true&layout=compact)
 
---- -->
+---
 
 
 <h2> Thank you for your attention 🙏🏻 </br> </br>  <img align="center" src="https://github.com/EsraaSyam/EsraaSyam/blob/main/wave-bye.gif" width = "200"/> </h2>
