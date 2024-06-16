@@ -80,6 +80,7 @@
 	  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EsraaSyam&theme=chartreuse-dark&show_icons=true&hide_border=true&layout=compact" alt="EsraaSyam's GitHub Stats" alt="EsraaSyam" height="192px"/>
   <br/>
 
+---
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=chartreuse-dark&show_icons=true&hide_border=true&layout=compact&animation=default&align=center" alt="Quotes Image">
