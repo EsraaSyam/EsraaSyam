@@ -69,11 +69,9 @@
 
 ---
 
-## 📊 Github Stats
 
 
-
-  <summary><b>💻 GitHub Profile Stats</b></summary>
+  <summary><b> My GitHub Stats </b></summary>
   <br/>
   <!-- <img align="center" src="https://github-readme-stats.vercel.app/api?username=EsraaSyam&theme=chartreuse-dark&show_icons=true&hide_border=true&count_private=true" alt="EsraaSyam's GitHub Stats" />
 
