@@ -86,7 +86,7 @@
 ---
 
 <p align="center">
-<!--   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=chartreuse-dark&show_icons=true&hide_border=true&layout=compact&animation=default&align=center" alt="Quotes Image"> -->
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=chartreuse-dark&show_icons=true&hide_border=true&layout=compact&animation=default&align=center" alt="Quotes Image">
 </p>
 
 
