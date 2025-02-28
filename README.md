@@ -2,7 +2,7 @@
 </br> </br><img align = "center" src="https://github.com/EsraaSyam/EsraaSyam/blob/main/stickers/hi-hello.gif" width="160"> </h1>
 
 
- ### <img  src="https://github.com/EsraaSyam/EsraaSyam/blob/main/stickers/toofio-pays.gif" width="8.5%">About me
+ ### <img  src="https://github.com/EsraaSyam/EsraaSyam/blob/main/stickers/toofio-pays.gif" width="8.6%">About me
 
 
 ---
