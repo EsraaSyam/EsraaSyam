@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **esraasyam15@gmail.com**
 
-- 🔭 You can look at my [Resume](https://drive.google.com/file/d/1sOIU7aq4by0LnyzxJMfFCFb6VbJqhb9u/view?usp=sharing) for more details about me 
+- 🔭 You can look at my [Resume](https://drive.google.com/file/d/1A75DH8U7XbNA0qV8YROoKriDguV9F3X3/view?usp=sharing) for more details about me 
 
 ---
 
