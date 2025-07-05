@@ -91,23 +91,16 @@
 
 ## 📈 GitHub Stats
 
-<div align="center">
-
-<a href="https://github.com/EsraaSyam">
-  <img src="https://github-readme-stats.vercel.app/api?username=EsraaSyam&theme=chartreuse-dark&show_icons=true&count_private=true&hide_border=true" height="180px"/>
-</a>
-
-<a href="https://github.com/EsraaSyam">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EsraaSyam&theme=chartreuse-dark&hide_border=true" height="180px"/>
-</a>
-
-<a href="https://github.com/EsraaSyam">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EsraaSyam&layout=compact&theme=chartreuse-dark&hide_border=true" height="180px"/>
-</a>
-
-</div>
+  <p align="center">
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="EsraaSyam's Github Stats" src="https://github-readme-stats.vercel.app/api?username=EsraaSyam&theme=chartreuse-dark&show_icons=true&hide_border=true&count_private=true" height="192px"/></a>
+<br/>
+  &nbsp;
+	  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EsraaSyam&theme=chartreuse-dark&hide_border=true" alt="EsraaSyam" height="192px"/>
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EsraaSyam&theme=chartreuse-dark&show_icons=true&hide_border=true&layout=compact" alt="EsraaSyam's GitHub Stats" alt="EsraaSyam" height="192px"/>
+  <br/>
 
 ***
+
 ## Thank you for your attention 🙏🏻
 
 <div align="center">
