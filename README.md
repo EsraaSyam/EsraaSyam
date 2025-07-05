@@ -95,11 +95,11 @@
 
   <img src="https://github-readme-stats.vercel.app/api?username=EsraaSyam&theme=chartreuse-dark&show_icons=true&count_private=true&hide_border=true" height="180px"/>
 
-  <br/><br/>
-
+  <br/>
+  
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=EsraaSyam&theme=chartreuse-dark&hide_border=true" height="180px"/>
 
-  <br/><br/>
+  <br/>
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EsraaSyam&layout=compact&theme=chartreuse-dark&hide_border=true" height="180px"/>
 
