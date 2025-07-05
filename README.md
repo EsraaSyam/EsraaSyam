@@ -1,101 +1,115 @@
-<h1 align="center">Hi , I'm Esraa Syam 🖤
-</br> </br><img align = "center" src="https://github.com/EsraaSyam/EsraaSyam/blob/main/stickers/hi-hello.gif" width="160"> </h1>
+<div align="center">
+  <h1>Hi, I'm Esraa Syam 🖤</h1>
+</div>
 
+<div align="center">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWNhdGx6a3h2b3Boc25nMm02aDEwYWRweGRwaHAwanB3Z2QwcjJpNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/zJ3V6Ot51H8Y0/giphy.gif" alt="hello" width="200">
+</div>
 
- ### <img  src="https://github.com/EsraaSyam/EsraaSyam/blob/main/stickers/toofio-pays.gif" width="8.5%">About me
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F744D7&center=true&vCenter=true&width=435&lines=Software+Engineer;Passionate+about+Clean+Code;Open+to+New+Challenges;Always+Learning+and+Improving;Problem+Solver" />
+</p>
 
+## About Me 
 
----
+-  Computer Science graduate from Suez Canal University
+-  Interested in backend development using Node.js, Nest.js, and PostgreSQL  
+-  Enthusiastic about software engineering and system design  
+-  ECPC Finalist 🏆
+-  Currently learning Java and Spring Boot  
+-  How to reach me esraasyam15@gmail.com
+-  You can look at my [Resume](https://drive.google.com/file/d/1A75DH8U7XbNA0qV8YROoKriDguV9F3X3/view?usp=sharing) for more details about me   
 
-<!-- <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&pause=1000&color=FFBBD3&background=86FFB400&center=true&vCenter=true&random=false&width=435&lines=Computer+Science+Student;Competitive+Programmer;Software+Engineer;Backend+Developer"></a>
-</p> -->
-
--  🎓 I am a recent graduate from the Faculty of [Computers & Informatics at Suez Canal University](http://suez.edu.eg/ar/?page_id=7325&lang=en)
-
-- 💻 I specialize in backend development using **Node.js** and database management with **Mongoose**. I love creating efficient, scalable, and maintainable backend systems.
-
-- 🏆 In addition to my backend development skills, I'm also a competitive programmer and enjoy solving challenging problems. You can check out some of my solutions and coding challenges on my **[codeforces profile](https://codeforces.com/profile/Sira)**
-
-- 📫 How to reach me **esraasyam15@gmail.com**
-
-- 🔭 You can look at my [Resume](https://drive.google.com/file/d/1A75DH8U7XbNA0qV8YROoKriDguV9F3X3/view?usp=sharing) for more details about me 
-
----
+***
+<br>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=EsraaSyam&label=Profile%20views&color=0e75b6&style=flat" alt="EsraaSyam" height=25px, width=160px/> 
 </p>
 
----
+***
+<br>
 
-<h3 align="left"> Connect with me:</h3>
-<p align="center">
-<a href="https://www.linkedin.com/in/esraa-syam-232a8b240/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/esraa-syam-232a8b240/" height="30" width="60" /></a>
-<a href="https://www.hackerrank.com/UGS_141198" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="Esraa syam" height="30" width="60" /></a>
-<a href="https://codeforces.com/profile/esraa_syam15" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="esraa_syam15" height="30" width="30" /></a>
-<a href="https://leetcode.com/Esraa_Syam15/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Esraa_Syam15" height="30" width="80" /></a>
-<!-- <img align="right" src="https://github.com/EsraaSyam/EsraaSyam/blob/main/quack-quack-dance.gif" width = "180"/>  -->
-
----
-  ## 🏆 GitHub Trophies
-<p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="EsraaSyam's Github Stats" src="https://github-profile-trophy.vercel.app/?username=EsraaSyam&theme=radical&no-frame=false&no-bg=true&margin-w=4" height="250px"/></a>
-
----
-
-<!---languages & Tools text --->
-
-<div>&nbsp;</div>
-<h2 align="left">🛠️ Languages & Tools</h2></p>
-<div align="center">
-
-<!--- language icons --->
-
-<img height="50"  src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" />
-<img height="50" src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png" />
-<img height="50" src="https://user-images.githubusercontent.com/25181517/192108889-232b3431-a585-4b36-a62d-9078bd3641d9.png" />
-<img height="50" src="https://user-images.githubusercontent.com/25181517/192108890-200809d1-439c-4e23-90d3-b090cf9a4eea.png" />
-<img height="50" src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" />
-
-<img height="50" src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" />
-<img height="50" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" />
-
-<img height="50" src="https://user-images.githubusercontent.com/25181517/121401671-49102800-c959-11eb-9f6f-74d49a5e1774.png" />
-<img height="50" src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png" />
-<img height="50" src="https://user-images.githubusercontent.com/25181517/192106073-90fffafe-3562-4ff9-a37e-c77a2da0ff58.png" />
-<img height="50" src="https://user-images.githubusercontent.com/25181517/186884153-99edc188-e4aa-4c84-91b0-e2df260ebc33.png" />
-  
-&nbsp;
-  </div>
-  
-<!--- Languages & Tools End --->
-
----
-
-<!--- GitHub Stats --->
-<h4 align="left">📈 My GitHub Stats</42></p>
-  <br/>
-  <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="EsraaSyam's Github Stats" src="https://github-readme-stats.vercel.app/api?username=EsraaSyam&theme=chartreuse-dark&show_icons=true&hide_border=true&count_private=true" height="192px"/></a>
-<br/>
-  &nbsp;
-	  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EsraaSyam&theme=chartreuse-dark&hide_border=true" alt="EsraaSyam" height="192px"/>
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EsraaSyam&theme=chartreuse-dark&show_icons=true&hide_border=true&layout=compact" alt="EsraaSyam's GitHub Stats" alt="EsraaSyam" height="192px"/>
-  <br/>
-
----
+## Connect with me
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=chartreuse-dark&show_icons=true&hide_border=true&layout=compact&animation=default&align=center" alt="Quotes Image">
+  <a href="mailto:esraasyam15@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/esraa-syam-232a8b240/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://codeforces.com/profile/Sira">
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/Esraa_Syam15/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
 </p>
 
+## 💻 Skills & Technologies
 
+### 📝 Languages
+<div align="center">
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+</div>
 
 ---
 
+### ⚙️ Frameworks & Tools
+<div align="center">
 
-<h2> Thank you for your attention 🙏🏻 </br> </br>  <img align="center" src="https://github.com/EsraaSyam/EsraaSyam/blob/main/stickers/Bye.gif" width = "200"/> </h2>
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
+</div>
 
-													     
-													     
+---
+
+### 📚 Concepts
+<div align="center">
+
+![RESTful APIs](https://img.shields.io/badge/RESTful%20APIs-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![OOP](https://img.shields.io/badge/OOP-5C2D91?style=for-the-badge&logo=abstract&logoColor=white)
+![Data Structures](https://img.shields.io/badge/Data%20Structures-FFB000?style=for-the-badge&logo=stackshare&logoColor=white)
+![Algorithms](https://img.shields.io/badge/Algorithms-8E44AD?style=for-the-badge&logo=codeforces&logoColor=white)
+
+</div>
+
+***
+
+## 📈 GitHub Stats
+
+<div align="center">
+
+<a href="https://github.com/EsraaSyam">
+  <img src="https://github-readme-stats.vercel.app/api?username=EsraaSyam&theme=chartreuse-dark&show_icons=true&count_private=true&hide_border=true" height="180px"/>
+</a>
+
+<a href="https://github.com/EsraaSyam">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EsraaSyam&theme=chartreuse-dark&hide_border=true" height="180px"/>
+</a>
+
+<a href="https://github.com/EsraaSyam">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EsraaSyam&layout=compact&theme=chartreuse-dark&hide_border=true" height="180px"/>
+</a>
+
+</div>
+
+***
+## Thank you for your attention 🙏🏻
+
+<div align="center">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDd6MXY3Ymdpc3F0OGxocTZrMDgwOHdmNzdkc3Jlcjc2b2R5cW15OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/diKwwjCqO5cnhIscEy/giphy.gif" alt="bye" width="150">
+</div>
