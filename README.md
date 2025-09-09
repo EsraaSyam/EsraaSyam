@@ -3,8 +3,9 @@
 </div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/Wj7lNjMNDxSmc/giphy.gif" alt="hello cute" width="160">
+  <img src="https://media1.giphy.com/media/63vVUqI58JJBj5Nrqy/giphy.gif" alt="cute hello" width="140">
 </div>
+
 
 
 <p align="center">
