@@ -3,22 +3,24 @@
 </div>
 
 <div align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWNhdGx6a3h2b3Boc25nMm02aDEwYWRweGRwaHAwanB3Z2QwcjJpNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/zJ3V6Ot51H8Y0/giphy.gif" alt="hello" width="200">
+  <img src="https://media.giphy.com/media/Wj7lNjMNDxSmc/giphy.gif" alt="hello cute" width="160">
 </div>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F744D7&center=true&vCenter=true&width=435&lines=Software+Engineer;Passionate+about+Clean+Code;Open+to+New+Challenges;Always+Learning+and+Improving;Problem+Solver" />
 </p>
 
-## About Me 
+## 👋 Who am I?  
 
--  Computer Science graduate from Suez Canal University
--  Interested in backend development using Node.js, Nest.js, and PostgreSQL  
--  Enthusiastic about software engineering and system design  
--  ECPC Finalist 🏆
--  Currently learning Java and Spring Boot  
--  How to reach me esraasyam15@gmail.com
--  You can look at my [Resume](https://drive.google.com/file/d/1A75DH8U7XbNA0qV8YROoKriDguV9F3X3/view?usp=sharing) for more details about me   
+Software Engineer who enjoys turning messy problems into clean, simple solutions.  
+Currently diving deep into **Java & Spring Boot** to sharpen my backend engineering skills.  
+
+⚡ Strong background in backend development with **Node.js, NestJS, and PostgreSQL**  
+🏆 Competitive programming background (**ECPC Finalist**)  
+📚 Passionate about clean code, problem solving, and system design  
+☕ Driven by coffee, curiosity, and a love for continuous learning
+
 
 ***
 <br>
@@ -28,23 +30,6 @@
 
 ***
 <br>
-
-## Connect with me
-
-<p align="center">
-  <a href="mailto:esraasyam15@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/esraa-syam-232a8b240/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://codeforces.com/profile/Sira">
-    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
-  </a>
-  <a href="https://leetcode.com/Esraa_Syam15/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-  </a>
-</p>
 
 ## 💻 Skills & Technologies
 
@@ -103,13 +88,38 @@
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EsraaSyam&layout=compact&theme=chartreuse-dark&hide_border=true" height="180px"/>
 
+  <br/>
+
+  ![Esraa's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=EsraaSyam&theme=react-dark)
+
+
 </div>
 
 
 ***
 
-## Thank you for your attention 🙏🏻
+## Connect with me
+
+<p align="center">
+  <a href="mailto:esraasyam15@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/esraa-syam-232a8b240/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://codeforces.com/profile/Sira">
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/Esraa_Syam15/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+</p>
+
+***
+
+## 💫 Thank you for your attention 🙏🏻
 
 <div align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDd6MXY3Ymdpc3F0OGxocTZrMDgwOHdmNzdkc3Jlcjc2b2R5cW15OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/diKwwjCqO5cnhIscEy/giphy.gif" alt="bye" width="150">
+  <img src="https://media.giphy.com/media/MB0NUNjpzCYMCZejHZ/giphy.gif" alt="bye hello kitty" width="200">
+  <p>Made with 💻, ☕, and a little bit of 🖤</p>
 </div>
