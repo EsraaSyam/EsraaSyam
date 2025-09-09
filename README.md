@@ -29,7 +29,6 @@ Currently diving deep into **Java & Spring Boot** to sharpen my backend engineer
 </p>
 
 ***
-<br>
 
 ## 💻 Skills & Technologies
 
