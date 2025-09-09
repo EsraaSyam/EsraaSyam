@@ -9,8 +9,9 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F744D7&center=true&vCenter=true&width=435&lines=Software+Engineer;Passionate+about+Clean+Code;Open+to+New+Challenges;Always+Learning+and+Improving;Problem+Solver" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=A259FF&center=true&vCenter=true&width=435&lines=Software+Engineer;Passionate+about+Clean+Code;Open+to+New+Challenges;Always+Learning+and+Improving;Problem+Solver" />
 </p>
+
 
 ## 👋 Who am I?  
 
@@ -120,6 +121,6 @@ Currently diving deep into **Java & Spring Boot** to sharpen my backend engineer
 ## 💫 Thank you for your attention 🙏🏻
 
 <div align="center">
-  <img src="https://media.giphy.com/media/MB0NUNjpzCYMCZejHZ/giphy.gif" alt="bye hello kitty" width="200">
+  <img src="https://media4.giphy.com/media/aQiUwOd514MUvuV4Hn/giphy.gif" alt="cute bye" width="180">
   <p>Made with 💻, ☕, and a little bit of 🖤</p>
 </div>
