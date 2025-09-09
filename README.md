@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hi, I'm Esraa Syam 🖤</h1>
+  <h1>Hi, I'm Esraa Syam 💕</h1>
 </div>
 
 <div align="center">
@@ -122,5 +122,5 @@ Currently diving deep into **Java & Spring Boot** to sharpen my backend engineer
 
 <div align="center">
   <img src="https://media4.giphy.com/media/aQiUwOd514MUvuV4Hn/giphy.gif" alt="cute bye" width="180">
-  <p>Made with 💻, ☕, and a little bit of 🖤</p>
+  <p>Made with 💻, ☕, and a little bit of 💕</p>
 </div>
