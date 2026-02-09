@@ -1,12 +1,9 @@
 <div align="center">
-  <h1>Hi, I'm Esraa Syam 💕</h1>
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:ee9ca7,100:ffdde1&height=280&section=header&text=Esraa%20Syam&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer&descSize=32&descAlignY=62"
+    width="100%"
+  />
 </div>
-
-<div align="center">
-  <img src="https://media1.giphy.com/media/63vVUqI58JJBj5Nrqy/giphy.gif" alt="cute hello" width="140">
-</div>
-
-
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=A259FF&center=true&vCenter=true&width=435&lines=Software+Engineer;Passionate+about+Clean+Code;Open+to+New+Challenges;Always+Learning+and+Improving;Problem+Solver" />
