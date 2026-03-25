@@ -33,11 +33,11 @@ Currently diving deep into **Java & Spring Boot** to sharpen my backend engineer
 
 ### 📝 Languages
 <div align="center">
-
+  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 </div>
 
@@ -47,8 +47,8 @@ Currently diving deep into **Java & Spring Boot** to sharpen my backend engineer
 <div align="center">
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -63,8 +63,8 @@ Currently diving deep into **Java & Spring Boot** to sharpen my backend engineer
 ### 📚 Concepts
 <div align="center">
 
-![RESTful APIs](https://img.shields.io/badge/RESTful%20APIs-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![OOP](https://img.shields.io/badge/OOP-5C2D91?style=for-the-badge&logo=abstract&logoColor=white)
+![RESTful APIs](https://img.shields.io/badge/RESTful%20APIs-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Data Structures](https://img.shields.io/badge/Data%20Structures-FFB000?style=for-the-badge&logo=stackshare&logoColor=white)
 ![Algorithms](https://img.shields.io/badge/Algorithms-8E44AD?style=for-the-badge&logo=codeforces&logoColor=white)
 
